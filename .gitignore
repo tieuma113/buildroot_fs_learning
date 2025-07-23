@@ -1,0 +1,6 @@
+output/
+buildroot/
+*.o
+*.bin
+*.img
+*.log
